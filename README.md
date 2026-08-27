@@ -1,2 +1,2 @@
 # Program-Design-1
-NCKU 2025 Fall Program Design 1 homework
+成大資工 113 學年度 程式設計(一)-HW
